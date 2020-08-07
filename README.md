@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### It's Oguz from Istanbul, Turkey.
+#### I’m currently working at Accenture as iOS Developer
+#### In love with Software Design Patterns, Software Architecture and Apple Technologies
 
 <!--
 **oguzparlak/oguzparlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
