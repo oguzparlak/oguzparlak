@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### It's Oguz from Istanbul, Turkey.
-#### I’m currently working at Getir as iOS Developer
+#### I’m currently working at Raiffeisen Bank International as Senior iOS Developer
 #### In love with Software Design Patterns, Software Architecture and Apple Technologies
 
 <!--
